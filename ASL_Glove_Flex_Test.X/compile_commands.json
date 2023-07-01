@@ -1,0 +1,128 @@
+[
+  {
+    "arguments": [
+      "/opt/microchip/xc32/v4.21/bin/xc32-gcc",
+      "-g",
+      "-x",
+      "c",
+      "-c",
+      "-mprocessor=32MX340F512H",
+      "-fno-common",
+      "-I../Common",
+      "-Wall",
+      "-DXPRJ_default=default",
+      "-mdfp=/opt/microchip/mplabx/v6.05/packs/Microchip/PIC32MX_DFP/1.5.259",
+      "-o",
+      "build/default/production/_ext/2108356922/timers.o",
+      "../Common/timers.c"
+    ],
+    "directory": "/home/alex/sensational_sensors/ASL_Glove_Flex_Test.X",
+    "file": "/home/alex/sensational_sensors/Common/timers.c",
+    "output": "/home/alex/sensational_sensors/ASL_Glove_Flex_Test.X/build/default/production/_ext/2108356922/timers.o"
+  },
+  {
+    "arguments": [
+      "/opt/microchip/xc32/v4.21/bin/xc32-gcc",
+      "-g",
+      "-x",
+      "c",
+      "-c",
+      "-mprocessor=32MX340F512H",
+      "-fno-common",
+      "-I../Common",
+      "-Wall",
+      "-DXPRJ_default=default",
+      "-mdfp=/opt/microchip/mplabx/v6.05/packs/Microchip/PIC32MX_DFP/1.5.259",
+      "-o",
+      "build/default/production/_ext/2108356922/AD.o",
+      "../Common/AD.c"
+    ],
+    "directory": "/home/alex/sensational_sensors/ASL_Glove_Flex_Test.X",
+    "file": "/home/alex/sensational_sensors/Common/AD.c",
+    "output": "/home/alex/sensational_sensors/ASL_Glove_Flex_Test.X/build/default/production/_ext/2108356922/AD.o"
+  },
+  {
+    "arguments": [
+      "/opt/microchip/xc32/v4.21/bin/xc32-gcc",
+      "-g",
+      "-x",
+      "c",
+      "-c",
+      "-mprocessor=32MX340F512H",
+      "-fno-common",
+      "-I../Common",
+      "-Wall",
+      "-DXPRJ_default=default",
+      "-mdfp=/opt/microchip/mplabx/v6.05/packs/Microchip/PIC32MX_DFP/1.5.259",
+      "-o",
+      "build/default/production/_ext/2108356922/BOARD.o",
+      "../Common/BOARD.c"
+    ],
+    "directory": "/home/alex/sensational_sensors/ASL_Glove_Flex_Test.X",
+    "file": "/home/alex/sensational_sensors/Common/BOARD.c",
+    "output": "/home/alex/sensational_sensors/ASL_Glove_Flex_Test.X/build/default/production/_ext/2108356922/BOARD.o"
+  },
+  {
+    "arguments": [
+      "/opt/microchip/xc32/v4.21/bin/xc32-gcc",
+      "-g",
+      "-x",
+      "c",
+      "-c",
+      "-mprocessor=32MX340F512H",
+      "-fno-common",
+      "-I../Common",
+      "-Wall",
+      "-DXPRJ_default=default",
+      "-mdfp=/opt/microchip/mplabx/v6.05/packs/Microchip/PIC32MX_DFP/1.5.259",
+      "-o",
+      "build/default/production/_ext/2108356922/serial.o",
+      "../Common/serial.c"
+    ],
+    "directory": "/home/alex/sensational_sensors/ASL_Glove_Flex_Test.X",
+    "file": "/home/alex/sensational_sensors/Common/serial.c",
+    "output": "/home/alex/sensational_sensors/ASL_Glove_Flex_Test.X/build/default/production/_ext/2108356922/serial.o"
+  },
+  {
+    "arguments": [
+      "/opt/microchip/xc32/v4.21/bin/xc32-gcc",
+      "-g",
+      "-x",
+      "c",
+      "-c",
+      "-mprocessor=32MX340F512H",
+      "-fno-common",
+      "-I../Common",
+      "-Wall",
+      "-DXPRJ_default=default",
+      "-mdfp=/opt/microchip/mplabx/v6.05/packs/Microchip/PIC32MX_DFP/1.5.259",
+      "-o",
+      "build/default/production/Flexion_Test.o",
+      "Flexion_Test.c"
+    ],
+    "directory": "/home/alex/sensational_sensors/ASL_Glove_Flex_Test.X",
+    "file": "/home/alex/sensational_sensors/ASL_Glove_Flex_Test.X/Flexion_Test.c",
+    "output": "/home/alex/sensational_sensors/ASL_Glove_Flex_Test.X/build/default/production/Flexion_Test.o"
+  },
+  {
+    "arguments": [
+      "/opt/microchip/xc32/v4.21/bin/xc32-gcc",
+      "-g",
+      "-x",
+      "c",
+      "-c",
+      "-mprocessor=32MX340F512H",
+      "-fno-common",
+      "-I../Common",
+      "-Wall",
+      "-DXPRJ_default=default",
+      "-mdfp=/opt/microchip/mplabx/v6.05/packs/Microchip/PIC32MX_DFP/1.5.259",
+      "-o",
+      "build/default/production/_ext/2108356922/Node.o",
+      "../Common/Node.c"
+    ],
+    "directory": "/home/alex/sensational_sensors/ASL_Glove_Flex_Test.X",
+    "file": "/home/alex/sensational_sensors/Common/Node.c",
+    "output": "/home/alex/sensational_sensors/ASL_Glove_Flex_Test.X/build/default/production/_ext/2108356922/Node.o"
+  }
+]

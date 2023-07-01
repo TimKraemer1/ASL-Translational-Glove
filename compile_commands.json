@@ -1,0 +1,16 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-I",
+      "./Common/",
+      "-o",
+      "test",
+      "test.c"
+    ],
+    "directory": "/home/alex/sensational_sensors",
+    "file": "/home/alex/sensational_sensors/test.c",
+    "output": "/home/alex/sensational_sensors/test"
+  }
+]
